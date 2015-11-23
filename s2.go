@@ -1,3 +1,5 @@
+// Package s2 is convert to map from struct, and to struct from map.
+// It is useful at the scene to be converted. ex)datastore driver.
 package s2
 
 import (
