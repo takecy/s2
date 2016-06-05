@@ -1,6 +1,6 @@
 ## s2
 [![Build Status](https://travis-ci.org/takecy/s2.svg?branch=master)](https://travis-ci.org/takecy/s2)  
-![](https://img.shields.io/badge/golang-1.5.1+-blue.svg?style=flat)
+![](https://img.shields.io/badge/golang-1.6.2-blue.svg?style=flat)
 [![GoDoc](https://godoc.org/github.com/takecy/s2?status.svg)](https://godoc.org/github.com/takecy/s2)
 
 s2 is convert to map from struct, and to struct from map for Go.  
