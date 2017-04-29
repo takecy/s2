@@ -30,6 +30,7 @@ err := s2.FromMap(m, s)
 ```
 
 <br/>
+
 ## Testing
 ```shell
 $ go get github.com/smartystreets/goconvey/convey
